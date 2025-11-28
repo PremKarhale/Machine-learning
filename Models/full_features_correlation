@@ -1,0 +1,78 @@
+,price
+price,1.0
+ 'Visitor Parking',0.4634095491928653
+ 'Private Garden / Terrace',0.455428911177896
+ 'Separate entry for servant room',0.4303385809650036
+ 'Maintenance Staff',0.429762538793939
+ 'Waste Disposal',0.41026279186794834
+ 'Water Storage',0.3992926792162943
+ 'High Ceiling Height',0.3975324096026954
+ 'Park',0.3763267736765183
+ 'False Ceiling Lighting',0.3450655058517586
+ 'Club house / Community Center'],0.3419592497288811
+ 'Security Personnel',0.3379241059777877
+ 'No open drainage around',0.33180726226082535
+ 'Rain Water Harvesting',0.3288950027652343
+ 'Swimming Pool',0.32387588864507016
+ 'Airy Rooms',0.31135447770223373
+ 'Fitness Centre / GYM',0.3097222845576417
+ 'Piped-gas',0.30757523130044645
+ 'Feng Shui / Vaastu Compliant',0.3000466846693237
+ 'Water purifier',0.29857579669565415
+ 'Spacious Interiors',0.28678017399024236
+['Security / Fire Alarm',0.27298291129650115
+ 'Internet/wi-fi connectivity',0.27263484795220194
+ 'Natural Light',0.2714957290475616
+ 'Low Density Society',0.26707603595760854
+ 'Centrally Air Conditioned',0.23573772687802882
+['Feng Shui / Vaastu Compliant',0.2271824933354305
+ 'Recently Renovated',0.188602522853571
+ 'Rain Water Harvesting'],0.1613543595400583
+ 'Bank Attached Property',0.15660264854482545
+ 'Security / Fire Alarm',0.13267099387219972
+['Centrally Air Conditioned',0.12874729443348318
+ 'Spacious Interiors'],0.09134243781612231
+ 'Fitness Centre / GYM'],0.04497606148014526
+['Maintenance Staff',0.04422495559900154
+['High Ceiling Height',0.04216866774902648
+['Piped-gas'],0.03563062463243249
+ 'Waste Disposal'],0.03464472827292758
+ 'Piped-gas'],0.0244280760064618
+['Private Garden / Terrace',0.01880325465980492
+ 'Club house / Community Center',0.017790462813746553
+['Club house / Community Center'],0.016026164536983845
+['Separate entry for servant room',0.016026164536983845
+ 'Bank Attached Property'],0.004193472550802328
+['Visitor Parking'],-1.9861864661125006e-05
+ 'Security Personnel'],-0.0032173883266078908
+['Piped-gas',-0.004278454847587968
+['Private Garden / Terrace'],-0.0063117466154775015
+ 'Separate entry for servant room'],-0.007079092004080654
+['False Ceiling Lighting',-0.007135097539732314
+['Maintenance Staff'],-0.008129330937765382
+['Swimming Pool',-0.012750382245978298
+['Water purifier',-0.01371398491762924
+ 'Maintenance Staff'],-0.015130923828997058
+['Fitness Centre / GYM'],-0.017581481340928136
+ 'Natural Light'],-0.018951346287586636
+ 'Low Density Society'],-0.019899719159135788
+['Internet/wi-fi connectivity'],-0.020382118497420783
+ 'High Ceiling Height'],-0.020382118497420786
+['Internet/wi-fi connectivity',-0.028083870677775655
+ 'Visitor Parking'],-0.03069819706643342
+['Bank Attached Property',-0.031234587478829887
+['Recently Renovated'],-0.03172469898121609
+['No open drainage around',-0.032912325116387114
+ 'Recently Renovated'],-0.03329809621691315
+ 'Park'],-0.03417336222768145
+ 'Airy Rooms'],-0.03829057528441223
+['Visitor Parking',-0.04345276749120158
+['Natural Light',-0.04606397183917019
+['Park',-0.046399282369623845
+ 'Internet/wi-fi connectivity'],-0.05090720963265244
+['Natural Light'],-0.052417228871406894
+['Park'],-0.07707926381882434
+ 'Water Storage'],-0.08056071867460446
+['Water Storage',-0.08706123535369041
+['Water Storage'],-0.08947587580835993
+None,-0.36682467686041437
